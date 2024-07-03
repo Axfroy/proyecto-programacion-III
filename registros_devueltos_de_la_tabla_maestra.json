@@ -1,0 +1,130 @@
+[
+    {
+        "ID": 1,
+        "SUCURSAL": 1,
+        "CURSO": 20,
+        "MATERIA": 10,
+        "PROFESOR": 1,
+        "ALUMNO": 1
+    },
+    {
+        "ID": 2,
+        "SUCURSAL": 1,
+        "CURSO": 20,
+        "MATERIA": 10,
+        "PROFESOR": 1,
+        "ALUMNO": 2
+    },
+    {
+        "ID": 3,
+        "SUCURSAL": 1,
+        "CURSO": 21,
+        "MATERIA": 11,
+        "PROFESOR": 2,
+        "ALUMNO": 3
+    },
+    {
+        "ID": 4,
+        "SUCURSAL": 1,
+        "CURSO": 21,
+        "MATERIA": 11,
+        "PROFESOR": 2,
+        "ALUMNO": 4
+    },
+    {
+        "ID": 5,
+        "SUCURSAL": 1,
+        "CURSO": 21,
+        "MATERIA": 10,
+        "PROFESOR": 3,
+        "ALUMNO": 5
+    },
+    {
+        "ID": 6,
+        "SUCURSAL": 1,
+        "CURSO": 21,
+        "MATERIA": 11,
+        "PROFESOR": 4,
+        "ALUMNO": 6
+    },
+    {
+        "ID": 7,
+        "SUCURSAL": 2,
+        "CURSO": 22,
+        "MATERIA": 11,
+        "PROFESOR": 5,
+        "ALUMNO": 7
+    },
+    {
+        "ID": 8,
+        "SUCURSAL": 2,
+        "CURSO": 22,
+        "MATERIA": 12,
+        "PROFESOR": 6,
+        "ALUMNO": 8
+    },
+    {
+        "ID": 9,
+        "SUCURSAL": 2,
+        "CURSO": 22,
+        "MATERIA": 12,
+        "PROFESOR": 6,
+        "ALUMNO": 9
+    },
+    {
+        "ID": 10,
+        "SUCURSAL": 2,
+        "CURSO": 22,
+        "MATERIA": 13,
+        "PROFESOR": 6,
+        "ALUMNO": 10
+    },
+    {
+        "ID": 11,
+        "SUCURSAL": 2,
+        "CURSO": 23,
+        "MATERIA": 12,
+        "PROFESOR": 7,
+        "ALUMNO": 11
+    },
+    {
+        "ID": 12,
+        "SUCURSAL": 2,
+        "CURSO": 24,
+        "MATERIA": 10,
+        "PROFESOR": 8,
+        "ALUMNO": 12
+    },
+    {
+        "ID": 13,
+        "SUCURSAL": 2,
+        "CURSO": 24,
+        "MATERIA": 10,
+        "PROFESOR": 8,
+        "ALUMNO": 13
+    },
+    {
+        "ID": 14,
+        "SUCURSAL": 3,
+        "CURSO": 25,
+        "MATERIA": 12,
+        "PROFESOR": 9,
+        "ALUMNO": 14
+    },
+    {
+        "ID": 15,
+        "SUCURSAL": 3,
+        "CURSO": 25,
+        "MATERIA": 13,
+        "PROFESOR": 10,
+        "ALUMNO": 15
+    },
+    {
+        "ID": 16,
+        "SUCURSAL": 3,
+        "CURSO": 25,
+        "MATERIA": 13,
+        "PROFESOR": 10,
+        "ALUMNO": 16
+    }
+]
